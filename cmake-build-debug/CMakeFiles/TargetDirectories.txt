@@ -1,0 +1,3 @@
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/cmake-build-debug/CMakeFiles/friendsNetwork.dir
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir

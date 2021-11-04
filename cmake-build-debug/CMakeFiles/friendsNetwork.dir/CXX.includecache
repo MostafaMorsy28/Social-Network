@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/LinkedList.h
+
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/User.h
+iostream
+-
+friendsBST.h
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/friendsBST.h
+LinkedList.h
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/LinkedList.h
+
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/friendsBST.h
+iostream
+-
+User.h
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/User.h
+
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/main.cpp
+iostream
+-
+fstream
+-
+User.h
+C:/Users/AmrMahmoud/CLionProjects/friendsNetwork/User.h
+
